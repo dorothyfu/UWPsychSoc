@@ -88,7 +88,7 @@
 /* About */
 
 #about-one {
-    background-color: #92ebe8;
+    background-color: white;;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -118,12 +118,12 @@
 }
 
 #about-one img {
-    height: 100%;
+    height: 110%;
     width: 100%;
 }
 
 #about-two {
-    background-color:#92ebe8;
+    background-color: white;
     color: black;
     height: 110vh;
     display: flex;
